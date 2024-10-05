@@ -5,6 +5,8 @@
     * Алгоритм Хопкрофта-Карпа: [заметки](./graph-theory/2_hk_notes.pdf)
     * Смежные задачи паросочетанию: [заметки](./graph-theory/3_mis_mvc_mm_mec.pdf), [задачи](./graph-theory/3_mis_mvc_mm_mec_tasks.pdf)
     * Задача о назначениях: [заметки](./graph-theory/4_hungarian_notes.pdf)
+    * Теорема Дилуорса, покрытие ориентированного графа путями: [заметки](./graph-theory/5_dilworth_notes.pdf), [задачи](5_dilworth_tasks.pdf)
+    * Рёберная покраска графа: [заметки](./graph-theory/6_edge_coloring_notes.pdf)
 - Дискретная математика
     * Бинарные отношения и матрица: [заметки](./discrete-math/practice1.pdf)
     * Отношения порядка: [заметки](./discrete-math/practice2.pdf)
