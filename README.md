@@ -7,6 +7,11 @@
     * Задача о назначениях: [заметки](./graph-theory/4_hungarian_notes.pdf)
     * Теорема Дилуорса, покрытие ориентированного графа путями: [заметки](./graph-theory/5_dilworth_notes.pdf), [задачи](./graph-theory/5_dilworth_tasks.pdf)
     * Рёберная покраска графа: [заметки](./graph-theory/6_edge_coloring_notes.pdf)
+    * Вычислительная сложность некоторых графовых задач: [заметки](./graph-theory/7_complexity_notes.pdf)
+    * Задача о максимальном потоке. Теорема и алгоритм Форда-Фалкерсона: [заметки](./graph-theory/8_flow_notes.pdf)
+    * Алгоритм Эдмондса-Карпа. Алгоритм масштабирования потока: [заметки](./graph-theory/9_edmonds_karp_notes.pdf)
+    * Алгоритм Диница: [заметки](./graph-theory/10_dinic_notes.pdf)
+    * Поток минимальной стоимости: [заметки](./graph-theory/11_min_cost.pdf)
 - Дискретная математика
     * Бинарные отношения и матрица: [заметки](./discrete-math/practice1.pdf)
     * Отношения порядка: [заметки](./discrete-math/practice2.pdf)
